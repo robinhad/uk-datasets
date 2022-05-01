@@ -17,3 +17,4 @@ You can help this list by expanding it.
 | Dataset  | Description | License |
 | ------------- | ------------- | --------------- |
 | [Wikipedia dump](https://dumps.wikimedia.org/) | TBD | `Creative Commons Attribution-Share-Alike 3.0 License` |
+| [Common Crawl](https://data.statmt.org/cc-100/) | TBD | `No License` |

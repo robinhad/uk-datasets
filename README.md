@@ -12,6 +12,7 @@ You can help this list by expanding it.
 | [M-AILABS Ukrainian](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/) | TBD  | `Custom BSD-3 Clause` |
 | [Common Voice](https://commonvoice.mozilla.org/uk/datasets)  | TBD  | `CC0` |
 | [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/) | TBD | ` CC-BY 4.0` |
+| [LinguaLibre](https://lingualibre.org/datasets/Q43-ukr-Ukrainian.zip) | TBD | `TBD` |
 
 # Text
 

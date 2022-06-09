@@ -25,3 +25,4 @@ You can help this list by expanding it.
 # List of lists
 
 [https://paperswithcode.com/datasets?q=&v=lst&o=match&lang=ukrainian&page=1](https://paperswithcode.com/datasets?q=&v=lst&o=match&lang=ukrainian&page=1)
+[ukTenTen](https://www.sketchengine.eu/uktenten-ukrainian-corpus/)
